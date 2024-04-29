@@ -13,7 +13,7 @@ def make_predict(feature) :
 
     return prediction
 
-st.title("Churn Prediction changed?")
+st.title("Churn Prediction")
 
 st.header("Test Cases")
 
